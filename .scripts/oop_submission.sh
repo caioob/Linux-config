@@ -1,4 +1,4 @@
-read -p " Vc esta na msm pasta q seu projeto?? (y/n)" yn 
+read -p "Vc esta na msm pasta q seu projeto?? (y/n)" yn 
 
 case $yn in
 
